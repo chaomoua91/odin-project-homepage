@@ -26,6 +26,7 @@ body {
   font-weight: auto;
   font-style: normal;
   font-size: 1.1rem;
+  background-color: var(--base-100);
 }
 
 a {
@@ -409,7 +410,7 @@ h3 {
     }
     .bento-items {
       padding: 30px;
-      background-color: var(--base-100);
+      background-color: var(--base-400);
       border-radius: 15px;
       position: relative;
       overflow: hidden;
